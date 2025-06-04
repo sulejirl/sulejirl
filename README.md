@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ahmet 👋
 
 I'm a passionate software developer with over 7 years of experience specializing in modern web and mobile development. I love building reliable, scalable applications using technologies like **React**, **Next.js**, **Node.js**, **NestJS**, and **React Native**.
 
@@ -6,22 +6,20 @@ I'm a passionate software developer with over 7 years of experience specializing
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, Vue.js  
-- **Backend:** Node.js, NestJS, Express  
+- **Frontend:** React
+- **Backend:** Node.js, NestJS  
 - **Mobile:** React Native  
 - **Databases:** PostgreSQL, MongoDB  
 - **Tools & DevOps:** Docker, GitHub Actions, Postman, GraphQL, REST  
-- **Languages:** JavaScript, TypeScript, Python
+- **Languages:** JavaScript, TypeScript
 
 ---
 
 ## 🔭 Current Focus
 
 - Building scalable GraphQL APIs with NestJS  
-- Creating serverless functions and microservices  
 - Implementing robust authentication and session management  
 - Improving test coverage and API monitoring  
-- Integrating third-party APIs like LimeSurvey
 
 ---
 
@@ -36,12 +34,6 @@ When I'm not coding, you’ll probably find me cycling 🚴 — currently aiming
 - 📍 Dresden, Germany  
 - 📧 [ahmet.sayarlioglu@gmail.com]   
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmet-sayarlioglu/)  
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulejirl&show_icons=true&hide_title=true&theme=default)
 
 ---
 
