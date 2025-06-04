@@ -32,7 +32,7 @@ When I'm not coding, you’ll probably find me cycling 🚴 — currently aiming
 ## 📫 Contact Me
 
 - 📍 Dresden, Germany  
-- 📧 [ahmet.sayarlioglu@gmail.com]   
+- 📧 ahmet.sayarlioglu@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmet-sayarlioglu/)  
 
 ---
